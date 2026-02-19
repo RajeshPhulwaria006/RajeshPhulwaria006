@@ -8,8 +8,8 @@ I don’t chase buzzwords : I learn by building, breaking, and improving things.
 ---
 
 ## 🔭 What I'm Currently Doing
-- Deepening **Machine Learning fundamentals** (especially time-series & classification)
-- Practicing **Python through projects**, not tutorials
+- Deepening **Machine Learning fundamentals**
+- Practicing **Python through projects**, and tutorials
 - Improving **Git/GitHub workflow** (commits, debugging, iteration)
 - Gradually preparing for **open-source contribution standards**
 
@@ -22,7 +22,7 @@ I don’t chase buzzwords : I learn by building, breaking, and improving things.
 - JavaScript (basic)
 
 **Machine Learning**
-- LSTM & time-series basics
+- Supervised Learning
 - Scikit-learn
 - Pandas, NumPy
 - Model evaluation & data preprocessing
@@ -31,6 +31,7 @@ I don’t chase buzzwords : I learn by building, breaking, and improving things.
 - Pygame
 - Basic Web Development (HTML, CSS, JS)
 - Git & GitHub
+- MLOps
 
 ---
 
