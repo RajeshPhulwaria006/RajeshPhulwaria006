@@ -159,7 +159,7 @@ directly impact gradient flow and neural network learning stability.
 - NumPy
 - Matplotlib
 
-📌 **Publication DOI:** [LINK](https://doi.org/10.5281/zenodo.19351203)
+📌 **Publication DOI:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19351203.svg)](https://doi.org/10.5281/zenodo.19351203)
 
 ---
 
