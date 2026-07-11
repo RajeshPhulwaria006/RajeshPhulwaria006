@@ -1,175 +1,21 @@
 # 👋 Hi, I'm Rajesh Phulwaria
 
-I'm a **Computer Science student from India** focused on building real skills in:
+**BCA Student • AI/ML Developer • Deep Learning Enthusiast • Research-Oriented Learner**
 
-- Machine Learning
-- Deep Learning
-- Python Development
-- Research-oriented experimentation
-- Problem-solving through projects
+I'm passionate about building intelligent systems and understanding the mathematics behind them. My interests span **Machine Learning, Deep Learning, NLP, LLMs, and AI Research**, where I enjoy turning theory into practical implementations.
 
-I don’t chase buzzwords — I learn by building, breaking, experimenting, and improving things.
+I believe the best way to learn AI is to **build, experiment, analyze, and iterate**.
 
 ---
 
-# 🔭 What I'm Currently Doing
+# 🚀 Current Focus
 
-- Deepening Machine Learning & Deep Learning fundamentals
-- Studying neural network behavior and optimization
-- Building practical AI/ML projects with PyTorch
-- Improving Git/GitHub workflow (commits, debugging, iteration)
-- Preparing for meaningful open-source contributions
-- Strengthening problem-solving and implementation skills
-
----
-
-# 🧠 Technical Skills
-
-## Languages
-- Python
-- C++
-- JavaScript (basic)
-- C
-
-## Machine Learning & AI
-- Supervised Learning
-- Neural Networks
-- Deep Learning Fundamentals
-- PyTorch
-- Scikit-learn
-- Pandas & NumPy
-- Data Preprocessing
-- Model Evaluation
-- Optimization Concepts
-
-## Development
-- Pygame
-- HTML, CSS, JavaScript
-- Git & GitHub
-- Basic MLOps Concepts
-
----
-
-# 📌 Featured Projects
-
-> These repositories represent hands-on learning, experimentation, and research-oriented development — not polished commercial products.
-
----
-
-## 🧠 Foundational AI Lab
-
-🚀 A research-oriented foundational laboratory for Machine Learning & Deep Learning.
-
-### Focus Areas
-- Machine Learning fundamentals
-- Deep Learning workflows
-- Optimization techniques
-- Neural Networks & CNNs
-- PyTorch experimentation
-- Model evaluation
-- Data processing pipelines
-- EDA & experimentation
-
-### Core Philosophy
-> “Learn AI by understanding the mathematics, implementing the logic, and experimenting deeply.”
-
-This repository focuses on:
-
-**Theory → Mathematics → Implementation → Experimentation → Intuition**
-
-rather than only using high-level abstractions.
-
----
-
-## 🤖 Jarvis AI Chatbot
-
-- Python-based chatbot project
-- Focused on logic flow, responses, and automation concepts
-- Helped me understand how AI systems are structured internally
-- Improved my understanding of modular Python development
-
----
-
-## 🌐 Personal Portfolio Website
-
-- Built to showcase my projects and learning journey
-- Uses HTML, CSS, and basic JavaScript
-- Reinforced frontend fundamentals and deployment awareness
-- Focused on simplicity, readability, and clean structure
-
----
-
-## 🎮 Snake Game (Pygame)
-
-- Classic Snake game built using Pygame
-- Strengthened understanding of:
-  - Game loops
-  - Event handling
-  - State management
-  - Real-time rendering
-- Demonstrates translating logic into working applications
-
----
-
-# 📄 Research & Publications
-
-## 🧪 Experimental Study on the Vanishing Gradient Problem
-
-A research-oriented deep learning study demonstrating and experimentally validating the **vanishing gradient problem** in deep neural networks using **PyTorch**.
-
-### Research Focus
-This work explores how:
-- Activation functions
-- Weight initialization
-- Loss functions
-- Optimization methods
-
-directly impact gradient flow and neural network learning stability.
-
----
-
-### Experimental Comparison
-
-#### ❌ Vanishing Gradient Architecture
-- Sigmoid activations
-- BCELoss
-- SGD optimizer
-- Default initialization
-
-#### ✅ Stable Deep Learning Architecture
-- ReLU activations
-- BCEWithLogitsLoss
-- Adam optimizer
-- He (Kaiming) initialization
-- Standardized input features
-
----
-
-### Key Findings
-- Demonstrated exponential gradient decay in deep sigmoid networks
-- Compared unstable vs stable learning dynamics
-- Observed significantly improved convergence in ReLU-based architectures
-- Explored practical optimization behavior beyond textbook theory
-
----
-
-### Technologies Used
-- Python
-- PyTorch
-- NumPy
-- Matplotlib
-
-📌 **Publication DOI:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19351203.svg)](https://doi.org/10.5281/zenodo.19351203)
-
----
-
-# 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/runtime_raj.ipynb/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-phulwaria-b61093315/)
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phulwariarajesh152@gmail.com)
+* 🤖 Deep Learning with PyTorch
+* 🧠 Neural Networks & Optimization
+* 📚 Large Language Models (LLMs)
+* 💬 NLP & Language Modeling
+* 🔬 Research-oriented AI experimentation
+* 🌱 Open Source Contributions
 
 ---
 
@@ -204,24 +50,150 @@ directly impact gradient flow and neural network learning stability.
 ![Pygame](https://img.shields.io/badge/Pygame-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ---
+---
 
-# ✍️ Random Dev Quote
+# 📌 Featured Projects
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🤖 Jarvis AI Assistant
+
+A modular desktop AI assistant powered by **Google Gemini** with persistent memory.
+
+### Highlights
+
+* Gemini 3.5 Flash integration
+* SQLite conversation memory
+* Website launcher
+* Music player
+* Real-time Indian news
+* Modular architecture
+* Secure API management using `.env`
 
 ---
 
+## 🧠 LSTM Language Model
 
-# 📫 Contact & Info
+A next-word prediction language model implemented using **PyTorch**.
 
-- Location: India 🇮🇳
-- Open to:
-  - Learning collaborations
-  - Research discussions
-  - Constructive feedback
-  - Open-source learning opportunities
+### Features
+
+* Custom vocabulary generation
+* Text preprocessing pipeline
+* Tokenization
+* Embedding layer
+* LSTM architecture
+* Next-word prediction
+* Training & evaluation workflow
+
+This project helped me gain a deeper understanding of sequence modeling and language generation.
 
 ---
 
-> Code reveals effort.  
-> Repositories reveal discipline.
+## 🧪 Foundational AI Lab
+
+A research-oriented repository dedicated to understanding AI from first principles.
+
+Topics include:
+
+* Machine Learning
+* Deep Learning
+* Neural Networks
+* CNNs
+* Optimization
+* Mathematical intuition
+* PyTorch implementations
+* Experimental notebooks
+
+**Philosophy**
+
+> Theory → Mathematics → Implementation → Experimentation → Intuition
+
+---
+
+## 🌐 Personal Portfolio
+
+A lightweight portfolio website showcasing my projects, learning journey, and technical skills.
+
+---
+
+## 🎮 Snake Game (Pygame)
+
+A classic Snake game built with Python and Pygame to strengthen understanding of game loops, rendering, collision detection, and event-driven programming.
+
+---
+
+# 📄 Research & Publications
+
+## Experimental Study on the Vanishing Gradient Problem
+
+A research study demonstrating and experimentally validating the **Vanishing Gradient Problem** in deep neural networks using PyTorch.
+
+### Research Highlights
+
+* Sigmoid vs ReLU comparison
+* SGD vs Adam optimization
+* Weight initialization experiments
+* Gradient flow analysis
+* Learning stability comparison
+
+### Publication
+
+📌 DOI: https://doi.org/10.5281/zenodo.19351203
+
+---
+
+# 🌱 Currently Learning
+
+* Transformers
+* Self-Attention
+* Vision Transformers (ViTs)
+* Large Language Models
+* Retrieval-Augmented Generation (RAG)
+* Agentic AI Systems
+* AI System Design
+
+---
+
+# 🌐 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajesh_phulwaria1.5/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-phulwaria-b61093315/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phulwariarajesh152@gmail.com)
+
+---
+# 📊 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=RajeshPhulwaria006&theme=tokyonight)
+
+---
+
+# 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=RajeshPhulwaria006\&theme=tokyo-night)
+
+---
+
+# 🚀 Current Interests
+
+* Machine Learning & Deep Learning
+* Natural Language Processing (NLP)
+* Large Language Models (LLMs)
+* Transformers & Self-Attention
+* PyTorch Research Projects
+* AI Agents & Agentic Systems
+* Retrieval-Augmented Generation (RAG)
+* Open Source AI
+
+---
+
+# 🎯 Goals
+
+* Build impactful AI applications
+* Publish research in Machine Learning
+* Contribute to open-source AI projects
+* Pursue research opportunities in Deep Learning and LLMs
+* Continue learning by building real-world systems
+
+---
+
+> *"Learning AI isn't about using models—it's about understanding why they work."*
