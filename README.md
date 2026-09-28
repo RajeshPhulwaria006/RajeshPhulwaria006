@@ -48,6 +48,34 @@ I believe the best way to learn AI is to **build, experiment, analyze, and itera
 
 # 📌 Featured Projects
 
+## 🏥 Patient Data Management API
+
+A patient data management software that operates and response CRUD operations on patient's dataset.
+
+### Highlights
+
+* Built a RESTful API using FastAPI for managing patient records and operations.
+* Implemented CRUD endpoints for creating, retrieving, updating, and deleting patient data.
+* Added Pydantic-based data validation for reliable and structured API requests/responses.
+* Containerized the application using Docker for consistent deployment and portability.
+* Deployed the backend on AWS EC2, making the API accessible over the internet.
+* Used Streamlit to build a lightweight frontend connected to the FastAPI backend.
+* Structured the project with a clean backend, frontend, data, utilities, and deployment workflow.
+* Gained hands-on experience with Linux, Docker, AWS EC2, networking, ports, and production-style deployment.
+
+## ⚖️ Niyamit - Packaged Commodities Compliance System
+
+A complete software system that scans **package labels** using **LMPC - rule based engine**.
+
+* Developed as a team project for Smart India Hackathon PS 26034 focused on packaged commodity compliance.
+* Built an OCR-based inspection pipeline to extract declarations and information from product labels/images.
+* Implemented structured data extraction and NLP-based processing for important package declarations.
+* Developed a rule-based compliance engine aligned with the Legal Metrology (Packaged Commodities) Rules, 2011.
+* Added validation for key declarations such as MRP, net quantity, manufacturer/packer details, and other mandatory information.
+* Designed the system around evidence-based compliance, allowing detected issues to be traced back to extracted product information.
+* Contributed to the OCR, NLP, rule-engine, structured extraction, and system evaluation components as part of the team.
+* Structured the project toward a government/industry-grade compliance platform rather than a simple OCR demo.
+
 ## 🤖 Jarvis AI Assistant
 
 A modular desktop AI assistant powered by **Google Gemini** with persistent memory.
