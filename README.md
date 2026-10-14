@@ -1,27 +1,26 @@
 # 👋 Hi, I'm Rajesh Phulwaria
 
-**BCA Student • AI/ML Developer • Deep Learning Enthusiast • Research-Oriented Learner**
+**AI/ML Developer in Progress • AI Systems Engineering • Deep Learning & Research • Open-Source Contributor**
 
-I'm passionate about building intelligent systems and understanding the mathematics behind them. My interests span **Machine Learning, Deep Learning, NLP, LLMs, and AI Research**, where I enjoy turning theory into practical implementations.
+I'm a BCA student interested in building intelligent systems and understanding how they work — from the mathematics behind machine learning models to the backend infrastructure that serves them.
 
-I believe the best way to learn AI is to **build, experiment, analyze, and iterate**.
+I enjoy learning by implementing algorithms, experimenting with neural networks, building API-driven applications, and exploring the engineering behind reliable and scalable systems.
 
----
+## 🚀 Current Focus
 
-# 🚀 Current Focus
-
-* 🤖 Deep Learning with PyTorch
-* 🧠 Neural Networks & Optimization
-* 📚 Large Language Models (LLMs)
-* 💬 NLP & Language Modeling
-* 🔬 Research-oriented AI experimentation
-* 🌱 Open Source Contributions
-
+- 🧠 **Deep Learning:** Neural networks, optimization, PyTorch, and model training
+- 🤖 **AI Engineering:** LLM applications, NLP, retrieval-augmented generation (RAG), and AI-powered tools
+- ⚙️ **Backend Engineering:** REST APIs, FastAPI, Go, databases, and authentication
+- 🏗️ **Systems Engineering:** Docker, Linux, deployment, API reliability, and system design fundamentals
+- 🔬 **AI Research:** Understanding model behavior, experimenting with architectures, and exploring research problems
+- 🌱 **Open Source:** Contributing to real-world projects, improving existing code, and learning through collaboration
 ---
 
 # 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![JavaScript](https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd54)
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -39,7 +38,11 @@ I believe the best way to learn AI is to **build, experiment, analyze, and itera
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
+![FastAPI](https://img.shields.io/badge/fastapi-ffffff?style=for-the-badge&logo=fastapi&logoColor=72D22D)
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+![Docker](https://img.shields.io/badge/docker-3670A0?style=for-the-badge&logo=docker&logoColor=ffdd54)
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
