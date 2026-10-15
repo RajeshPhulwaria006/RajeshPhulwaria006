@@ -162,8 +162,7 @@ A research study demonstrating and experimentally validating the **Vanishing Gra
 
 ### Publication
 
-📌 DOI: https://doi.org/10.5281/zenodo.19351203
-
+📌 DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19351203.svg)](https://doi.org/10.5281/zenodo.19351203)
 ---
 
 # 🌱 Currently Learning
