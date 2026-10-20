@@ -1,220 +1,152 @@
-# 👋 Hi, I'm Rajesh Phulwaria
+# Hi, I'm Rajesh Phulwaria 👋
 
 **AI/ML Developer in Progress • AI Systems Engineering • Deep Learning & Research • Open-Source Contributor**
 
-I'm a BCA student interested in building intelligent systems and understanding how they work — from the mathematics behind machine learning models to the backend infrastructure that serves them.
+I'm a BCA student working toward becoming an AI/ML engineer. I'm interested in understanding how intelligent systems work—not just using models, but learning the mathematics behind them and the engineering needed to put them into practice.
 
-I enjoy learning by implementing algorithms, experimenting with neural networks, building API-driven applications, and exploring the engineering behind reliable and scalable systems.
+I learn best by building things: implementing algorithms, experimenting with neural networks, developing API-driven applications, and exploring how to make software more reliable and scalable.
 
-## 🚀 Current Focus
+## 🚀 What I'm Working On
 
-- 🧠 **Deep Learning:** Neural networks, optimization, PyTorch, and model training
-- 🤖 **AI Engineering:** LLM applications, NLP, retrieval-augmented generation (RAG), and AI-powered tools
-- ⚙️ **Backend Engineering:** REST APIs, FastAPI, Go, databases, and authentication
-- 🏗️ **Systems Engineering:** Docker, Linux, deployment, API reliability, and system design fundamentals
-- 🔬 **AI Research:** Understanding model behavior, experimenting with architectures, and exploring research problems
-- 🌱 **Open Source:** Contributing to real-world projects, improving existing code, and learning through collaboration
----
+- **Deep Learning:** Neural networks, optimization, PyTorch, and model training
+- **AI Engineering:** LLM applications, NLP, retrieval-augmented generation (RAG), and AI-powered tools
+- **Backend Engineering:** REST APIs, FastAPI, Go, databases, and authentication
+- **Systems Engineering:** Docker, Linux, deployment, API reliability, and system design fundamentals
+- **AI Research:** Exploring model behavior, testing architectures, and investigating research questions
+- **Open Source:** Learning through collaboration and contributing to real-world projects
 
-# 💻 Tech Stack
+## 🧰 Technologies I Use
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+**Languages:** Python, JavaScript, C++  
+**AI/ML:** PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, Matplotlib  
+**Backend and tools:** FastAPI, Git, GitHub, Docker
 
-![JavaScript](https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd54)
+## 📌 Featured Projects
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### 🩺 Triage — Smart OPD Patient Prioritisation 
+Developed a healthcare triage prototype during a hackathon to prioritise OPD patients by urgency rather than relying solely on first-come, first-served tokens.
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- Built an explainable, rule-based triage engine that classifies patients into Immediate, Soon, and Routine priority levels using reported symptoms and available vital signs.
+- Implemented a live staff dashboard for patient registration, priority-based queue management, and consultation status tracking.
+- Added nurse-controlled priority overrides with mandatory clinical justifications, along with an audit trail and CSV export for accountability.
+- Integrated PostgreSQL persistence with a local write-ahead-log storage fallback, using Next.js 16, React 19, TypeScript, and Tailwind CSS.
 
-![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+### 🏥 Patient Data Management API
+A patient-record management application with a FastAPI backend and a lightweight Streamlit interface.
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+- Built REST endpoints to create, retrieve, update, and delete patient records.
+- Used Pydantic for request and response validation.
+- Containerized the application with Docker.
+- Deployed the backend on AWS EC2 and connected it to the Streamlit frontend.
+- Gained practical experience with Linux, networking, ports, and deployment workflows.
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### ⚖️ Niyamit — Packaged Commodities Compliance System
+A team project developed for **Smart India Hackathon problem statement 26034**, focused on packaged-commodity compliance.
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+- Built an OCR pipeline to extract declarations from product labels and images.
+- Used structured extraction and NLP-based processing to organize important package information.
+- Developed a rule-based compliance engine aligned with the Legal Metrology (Packaged Commodities) Rules, 2011.
+- Added checks for declarations such as MRP, net quantity, and manufacturer/packer details.
+- Contributed to OCR, NLP, rule-engine, structured-extraction, and system-evaluation work.
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+### 🤖 Jarvis AI Assistant
+A modular desktop assistant powered by Google's Gemini API, with persistent conversation memory.
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+- Stores conversation history using SQLite.
+- Includes utilities such as website launching and music playback.
+- Organizes features into a modular codebase.
+- Uses environment variables to manage API credentials.
 
-![FastAPI](https://img.shields.io/badge/fastapi-ffffff?style=for-the-badge&logo=fastapi&logoColor=72D22D)
+### 🧠 LSTM Language Model
+A next-word prediction model implemented in PyTorch to explore sequence modelling and language generation.
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- Builds a vocabulary and preprocessing pipeline.
+- Includes tokenization and an embedding layer.
+- Uses an LSTM architecture to predict the next word.
+- Covers the training and evaluation workflow.
 
-![Docker](https://img.shields.io/badge/docker-3670A0?style=for-the-badge&logo=docker&logoColor=ffdd54)
+### 🧪 Foundational AI Lab
+A learning and experimentation repository for exploring AI concepts from the ground up.
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+Topics include machine learning, deep learning, neural networks, CNNs, optimization, mathematical intuition, PyTorch implementations, and experimental notebooks.
 
----
----
+**My learning loop:** Theory → Mathematics → Implementation → Experimentation → Intuition
 
-# 📌 Featured Projects
+### 🌐 Personal Portfolio
+A lightweight website for sharing my projects, technical interests, and learning journey.
 
-## 🏥 Patient Data Management API
+### 🎮 Snake Game
+A classic Snake game built with Python and Pygame. It helped me practise game loops, rendering, collision detection, and event-driven programming.
 
-A patient data management software that operates and response CRUD operations on patient's dataset.
+## 📄 Research
 
-### Highlights
+### Experimental Study on the Vanishing Gradient Problem
+An experimental study using PyTorch to investigate vanishing gradients in deep neural networks.
 
-* Built a RESTful API using FastAPI for managing patient records and operations.
-* Implemented CRUD endpoints for creating, retrieving, updating, and deleting patient data.
-* Added Pydantic-based data validation for reliable and structured API requests/responses.
-* Containerized the application using Docker for consistent deployment and portability.
-* Deployed the backend on AWS EC2, making the API accessible over the internet.
-* Used Streamlit to build a lightweight frontend connected to the FastAPI backend.
-* Structured the project with a clean backend, frontend, data, utilities, and deployment workflow.
-* Gained hands-on experience with Linux, Docker, AWS EC2, networking, ports, and production-style deployment.
+The work explores:
+- Sigmoid and ReLU activations
+- SGD and Adam optimizers
+- Weight initialization
+- Gradient flow and training stability
 
-## ⚖️ Niyamit - Packaged Commodities Compliance System
+**Publication:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19351203.svg)](https://doi.org/10.5281/zenodo.19351203)
 
-A complete software system that scans **package labels** using **LMPC - rule based engine**.
+## 🌱 Currently Learning
 
-* Developed as a team project for Smart India Hackathon PS 26034 focused on packaged commodity compliance.
-* Built an OCR-based inspection pipeline to extract declarations and information from product labels/images.
-* Implemented structured data extraction and NLP-based processing for important package declarations.
-* Developed a rule-based compliance engine aligned with the Legal Metrology (Packaged Commodities) Rules, 2011.
-* Added validation for key declarations such as MRP, net quantity, manufacturer/packer details, and other mandatory information.
-* Designed the system around evidence-based compliance, allowing detected issues to be traced back to extracted product information.
-* Contributed to the OCR, NLP, rule-engine, structured extraction, and system evaluation components as part of the team.
-* Structured the project toward a government/industry-grade compliance platform rather than a simple OCR demo.
+- Transformers and self-attention
+- Vision Transformers (ViTs)
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI systems
+- AI system design
 
-## 🤖 Jarvis AI Assistant
+## 🎯 Interests and Goals
 
-A modular desktop AI assistant powered by **Google Gemini** with persistent memory.
+I'm interested in machine learning, deep learning, NLP, LLMs, AI agents, and open-source AI. Over time, I'd like to build useful AI applications, contribute to open-source projects, publish machine-learning research, and pursue research opportunities in deep learning and LLMs.
 
-### Highlights
+## 🌐 Connect With Me
 
-* Gemini 3.5 Flash integration
-* SQLite conversation memory
-* Website launcher
-* Music player
-* Real-time Indian news
-* Modular architecture
-* Secure API management using `.env`
-
----
-
-## 🧠 LSTM Language Model
-
-A next-word prediction language model implemented using **PyTorch**.
-
-### Features
-
-* Custom vocabulary generation
-* Text preprocessing pipeline
-* Tokenization
-* Embedding layer
-* LSTM architecture
-* Next-word prediction
-* Training & evaluation workflow
-
-This project helped me gain a deeper understanding of sequence modeling and language generation.
-
----
-
-## 🧪 Foundational AI Lab
-
-A research-oriented repository dedicated to understanding AI from first principles.
-
-Topics include:
-
-* Machine Learning
-* Deep Learning
-* Neural Networks
-* CNNs
-* Optimization
-* Mathematical intuition
-* PyTorch implementations
-* Experimental notebooks
-
-**Philosophy**
-
-> Theory → Mathematics → Implementation → Experimentation → Intuition
+- **Portfolio:** [![Portfolio](https://img.shields.io/badge/portfolio-8A2BE2)](https://rajeshphulwaria-portfolio.netlify.app/)
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-phulwaria-b61093315/)
+- **Instagram:** [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajesh_phulwaria1.5/)
+- **Email:** [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phulwariarajesh152@gmail.com)
 
 ---
 
-## 🌐 Personal Portfolio
+## 💻 Tech Stack
 
-A lightweight portfolio website showcasing my projects, learning journey, and technical skills.
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit-learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
+## 📊 GitHub Stats
 
-## 🎮 Snake Game (Pygame)
+![](https://github-readme-stats.shion.dev/api?username=RajeshPhulwaria006&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=RajeshPhulwaria006&theme=dark&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=RajeshPhulwaria006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-A classic Snake game built with Python and Pygame to strengthen understanding of game loops, rendering, collision detection, and event-driven programming.
+### ✍️ A Bit of Developer Inspiration
 
----
-
-# 📄 Research & Publications
-
-## Experimental Study on the Vanishing Gradient Problem
-
-A research study demonstrating and experimentally validating the **Vanishing Gradient Problem** in deep neural networks using PyTorch.
-
-### Research Highlights
-
-* Sigmoid vs ReLU comparison
-* SGD vs Adam optimization
-* Weight initialization experiments
-* Gradient flow analysis
-* Learning stability comparison
-
-### Publication
-
-📌 DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19351203.svg)](https://doi.org/10.5281/zenodo.19351203)
----
-
-# 🌱 Currently Learning
-
-* Transformers
-* Self-Attention
-* Vision Transformers (ViTs)
-* Large Language Models
-* Retrieval-Augmented Generation (RAG)
-* Agentic AI Systems
-* AI System Design
-
----
-
-# 🌐 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/portfolio-8A2BE2)](https://rajeshphulwaria-portfolio.netlify.app/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajesh_phulwaria1.5/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-phulwaria-b61093315/)
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phulwariarajesh152@gmail.com)
-
----
-# 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=RajeshPhulwaria006&theme=tokyonight)
-
----
-
-
-# 🚀 Current Interests
-
-* Machine Learning & Deep Learning
-* Natural Language Processing (NLP)
-* Large Language Models (LLMs)
-* Transformers & Self-Attention
-* PyTorch Research Projects
-* AI Agents & Agentic Systems
-* Retrieval-Augmented Generation (RAG)
-* Open Source AI
-
----
-
-# 🎯 Goals
-
-* Build impactful AI applications
-* Publish research in Machine Learning
-* Contribute to open-source AI projects
-* Pursue research opportunities in Deep Learning and LLMs
-* Continue learning by building real-world systems
-
----
-
-> *"Learning AI isn't about using models—it's about understanding why they work."*
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
