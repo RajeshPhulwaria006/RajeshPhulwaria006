@@ -19,7 +19,7 @@ I learn best by building things: implementing algorithms, experimenting with neu
 
 **Languages:** Python, JavaScript, C++  
 **AI/ML:** PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, Matplotlib  
-**Backend and tools:** FastAPI, Git, GitHub, Docker
+**Backend and tools:** FastAPI, Git, GitHub, Docker, Expressjs, MongoDB
 
 ## 📌 Featured Projects
 
