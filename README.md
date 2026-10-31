@@ -23,6 +23,14 @@ I learn best by building things: implementing algorithms, experimenting with neu
 
 ## 📌 Featured Projects
 
+### 🏢 N.P associates
+Developed a finance website for N.P Associates to showcase financial and loan-related services.
+
+- Built a responsive user interface using modern web technologies.
+- Organized services into categories like home loans, business loans, personal loans, and vehicle loans.
+- Implemented backend APIs to manage and retrieve service information.
+- Designed a bilingual interface supporting both English and Hindi for better accessibility.
+
 ### 🩺 Triage — Smart OPD Patient Prioritisation 
 Developed a healthcare triage prototype during a hackathon to prioritise OPD patients by urgency rather than relying solely on first-come, first-served tokens.
 
