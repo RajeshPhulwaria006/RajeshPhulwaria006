@@ -58,12 +58,14 @@ A team project developed for **Smart India Hackathon problem statement 26034**, 
 - Contributed to OCR, NLP, rule-engine, structured-extraction, and system-evaluation work.
 
 ### 🤖 Jarvis AI Assistant
-A modular desktop assistant powered by Google's Gemini API, with persistent conversation memory.
+A Python-based personal AI assistant integrating **LangChain, Groq-hosted LLMs, and practical desktop automation** with persistent conversation history and voice responses.
 
-- Stores conversation history using SQLite.
-- Includes utilities such as website launching and music playback.
-- Organizes features into a modular codebase.
-- Uses environment variables to manage API credentials.
+- Integrates a LangChain agent with a Groq-hosted language model for conversational AI and tool-assisted requests.
+- Retrieves recent news through a custom WorldNewsAPI tool.
+- Automates website opening and playlist-based music selection using predefined Python commands.
+- Stores and retrieves recent conversations using SQLite for contextual interactions across runs.
+- Converts assistant responses into speech using `pyttsx3`.
+- Uses environment variables to manage API credentials and maintains a modular structure for extensibility.
 
 ### 🧠 LSTM Language Model
 A next-word prediction model implemented in PyTorch to explore sequence modelling and language generation.
