@@ -90,6 +90,17 @@ A classic Snake game built with Python and Pygame. It helped me practise game lo
 
 ## 📄 Research
 
+### Experimental Study on the Controlled Gradient-Flow Ablation
+An empirical investigation of controlled gradient-flow interventions in deep neural network training, examining their effects on gradient propagation and optimization behavior..
+
+The work explores:
+- Sigmoid, Tanh and ReLU activations
+- He, Xavier initialization
+- 4, 8, 16, 32 depth of networks
+- Gradient flow ablation
+
+**Publication:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19351203.svg)](https://doi.org/10.5281/zenodo.24053276)
+
 ### Experimental Study on the Vanishing Gradient Problem
 An experimental study using PyTorch to investigate vanishing gradients in deep neural networks.
 
