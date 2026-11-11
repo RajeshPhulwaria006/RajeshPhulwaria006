@@ -99,7 +99,7 @@ The work explores:
 - 4, 8, 16, 32 depth of networks
 - Gradient flow ablation
 
-**Publication:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19351203.svg)](https://doi.org/10.5281/zenodo.24053276)
+**Publication:** [![DOI](https://zenodo.org/badge/DOI/10.5281//zenodo.24053276.svg)](https://doi.org/10.5281/zenodo.24053276)
 
 ### Experimental Study on the Vanishing Gradient Problem
 An experimental study using PyTorch to investigate vanishing gradients in deep neural networks.
